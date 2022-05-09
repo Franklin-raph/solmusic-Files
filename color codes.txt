@@ -1,6 +1,0 @@
-Primary Color: 0A183D
-Secondary Color: FC0254
-Nav Color: 08192D
-White Color: FFFFFF
-Grey Color: 808080
-Start free trail button color : 383B70
